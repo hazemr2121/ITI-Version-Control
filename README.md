@@ -1,7 +1,7 @@
 # ITI-Version-Control
 This is lab 1 for version control
 <div align="center">
-  <img src="./public/task2.png" alt="logo" width="90" height="auto">
+  <img src="./public/task2.png" alt="logo" width="100%" height="auto">
 <h1>Lab1</h1>
 </div>
 
